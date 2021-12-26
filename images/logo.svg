@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="108.16649mm"
+   height="40.390751mm"
+   viewBox="0 0 108.16649 40.390751"
+   version="1.1"
+   id="svg5"
+   shape-rendering="crispEdges"
+   sodipodi:docname="logo.svg"
+   inkscape:version="1.1.1 (1:1.1+202109281949+c3084ef5ed)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#d9d9d9"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:showpageshadow="false"
+     showborder="true"
+     inkscape:zoom="0.69664703"
+     inkscape:cx="251.92098"
+     inkscape:cy="-75.360976"
+     inkscape:window-width="1848"
+     inkscape:window-height="1016"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-46.615096,-160.13786)">
+    <g
+       id="g1015">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:27.6098px;line-height:1.25;font-family:'URW Gothic';-inkscape-font-specification:'URW Gothic Semi-Bold';letter-spacing:1.25942px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.690247"
+         x="46.587486"
+         y="180.5415"
+         id="text5960"><tspan
+           sodipodi:role="line"
+           id="tspan5958"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:'URW Gothic';-inkscape-font-specification:'URW Gothic Semi-Bold';fill:#ffffff;stroke-width:0.690247"
+           x="46.587486"
+           y="180.5415">velarde</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.3243px;line-height:1.25;font-family:'URW Gothic';-inkscape-font-specification:'URW Gothic';letter-spacing:0.600604px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.283107"
+         x="101.39204"
+         y="198.09389"
+         id="text10686"><tspan
+           sodipodi:role="line"
+           id="tspan10684"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'URW Gothic';-inkscape-font-specification:'URW Gothic';fill:#ffffff;stroke-width:0.283107"
+           x="101.39204"
+           y="198.09389">seguros</tspan></text>
+      <rect
+         id="rect65366"
+         width="102.54475"
+         height="1.8989769"
+         x="49.955135"
+         y="184.58057"
+         style="fill:#ffffff;stroke-width:0.264583" />
+    </g>
+  </g>
+</svg>

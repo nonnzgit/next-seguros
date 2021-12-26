@@ -1,9 +1,13 @@
-import styles from '../styles/Home.module.css';
+import Link from 'next/link';
 
 export default function Home() {
   return (
-    <div className={styles.container}>
-      Esta cargando el index que no debería cargar del proyecto Seguros.js
+    <div>
+      Visite la página dirección{' '}
+      <Link href="/seguros">
+        <a>velarde.com.es/seguros</a>
+      </Link>{' '}
+      por favor.
     </div>
   );
 }
