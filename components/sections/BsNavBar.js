@@ -2,7 +2,7 @@ import { Nav, Navbar, Container } from 'react-bootstrap';
 import { ScNavbar, ScNavlink } from '../../styles/bsnavbar';
 import { useState } from 'react';
 import Image from 'next/image';
-import Logo from '../../images/logo.svg';
+import Logo from '../../public/svg/logo.svg';
 import { FaTimes, FaBars } from 'react-icons/fa';
 import { ButtonPhone } from '../UI/Buttons';
 
