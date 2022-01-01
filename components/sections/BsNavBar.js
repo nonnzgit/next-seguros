@@ -17,7 +17,7 @@ const BsNavBar = () => {
     >
       <Container fluid="xl">
         <Image
-          src={Logo}
+          src="/svg/logo.png"
           alt="Logo de correduría Velarde Seguros / Grupo 10 Montequinto"
         />
 
