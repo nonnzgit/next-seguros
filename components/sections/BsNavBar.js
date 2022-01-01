@@ -16,12 +16,11 @@ const BsNavBar = () => {
       expand="lg"
     >
       <Container fluid="xl">
-        <Navbar.Brand href="#home" className="">
-          <Image
-            src={Logo}
-            alt="Logo de correduría Velarde Seguros / Grupo 10 Montequinto"
-          />
-        </Navbar.Brand>
+        <Image
+          src={Logo}
+          alt="Logo de correduría Velarde Seguros / Grupo 10 Montequinto"
+        />
+
         <div className="CcHamMenu">
           <Navbar.Toggle
             onClick={() => setToggleHam(prevToggleHam => !prevToggleHam)}
