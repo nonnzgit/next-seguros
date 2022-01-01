@@ -4,6 +4,7 @@ import { useState } from 'react';
 import Image from 'next/image';
 import { FaTimes, FaBars } from 'react-icons/fa';
 import { ButtonPhone } from '../UI/Buttons';
+import Logo from '../../public/svg/logo.png';
 
 const BsNavBar = () => {
   const [toggleHam, setToggleHam] = useState(false);
@@ -16,8 +17,8 @@ const BsNavBar = () => {
     >
       <Container fluid="xl">
         <Navbar.Brand href="#home" className="">
-          <img
-            src="/seguros/public/svg/logo.svg"
+          <Image
+            src={Logo}
             alt="Logo de correduría Velarde Seguros / Grupo 10 Montequinto"
           />
         </Navbar.Brand>
