@@ -11,7 +11,6 @@ export default function Home() {
           name="description"
           content="Correduría de seguros Velarde Seguros - Grupo 10 Montequinto"
         />
-        <link rel="icon" href="/favicon.png" />
       </Head>
       <BsNavBar />
     </div>
