@@ -17,7 +17,7 @@ const BsNavBar = () => {
       <Container fluid="xl">
         <Navbar.Brand href="#home" className="">
           <img
-            src="/svg/logo.svg"
+            src="/seguros/public/svg/logo.svg"
             alt="Logo de correduría Velarde Seguros / Grupo 10 Montequinto"
           />
         </Navbar.Brand>
